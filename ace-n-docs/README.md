@@ -9,7 +9,11 @@ description: >-
 
 Ace Centre's vision is a society where everyone is given the support they need to communicate, be understood and fulfil their potential. We believe that this vision can only be achieved by open and collaborative working.
 
-One of the ways in which we aim to achieve this goal is by providing a forum for different key stakeholder groups to contribute to the planning, development, trial and evaluation of products, resources and/or services for the Augmentative & Alternative Communication (AAC) and electronic Assistive Technology (eAT) field.
+One of the ways in which we aim to achieve this goal is by&#x20;
+
+* Providing a forum for different key stakeholder groups to contribute to the planning, development, trial and evaluation of products, resources and/or services for the Augmentative & Alternative Communication (AAC) and electronic Assistive Technology (eAT) field.
+* Valuing every member. This is not to play lip-service to this idea but to actively value members. This can be financial but also enables every member to be active and have a role to play. We will support members to help develop and improve the network and ongoing outcomes
+*
 
 Ultimately, we plan to recruit to the _Ace Centre Experts Network (ACE-N)_ - _working title_ - from three main groups:
 
