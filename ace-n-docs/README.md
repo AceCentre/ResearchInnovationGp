@@ -1,4 +1,11 @@
-# Overview of Ace Centre Experts Network (ACE-N)
+---
+description: >-
+  This is a comprehensive working document that details the aims, and roadmap as
+  well as a memorandum of understanding for the network. See the index to the
+  left to navigate through the areas.
+---
+
+# Introduction to the Ace Centre Experts Network (ACE-N)
 
 Ace Centre's vision is a society where everyone is given the support they need to communicate, be understood and fulfil their potential. We believe that this vision can only be achieved by open and collaborative working.
 

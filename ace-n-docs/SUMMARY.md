@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview of Ace Centre Experts Network (ACE-N)](README.md)
+* [Introduction to the Ace Centre Experts Network (ACE-N)](README.md)
 * [🗺 Structure of the Network](structure-of-the-network.md)
 * [📅 Roadmap](roadmap/README.md)
   * [Minutes from November 22](roadmap/minutes-from-november-22.md)
@@ -13,6 +13,6 @@
   * [Potential activities](users/potential-activities.md)
   * [Memorandum of Understanding](users/memorandum-of-understanding.md)
   * [Expenses & payment](users/expenses-and-payment.md)
-* [👨👨👧 Supporters (Scheduled 2023)](supporters-scheduled-2023.md)
-* [👩⚕ Professionals (Scheduled late 2023)](professionals-scheduled-late-2023.md)
+* [👨👨👧 Supporters (Scheduled)](supporters-scheduled.md)
+* [👩⚕ Professionals (Scheduled)](professionals-scheduled.md)
 * [Useful references](useful-references.md)

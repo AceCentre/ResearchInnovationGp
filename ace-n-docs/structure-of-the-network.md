@@ -4,7 +4,7 @@ _The ACE Network (ACE-N)_ will consist of three member stakeholder groups, "**Us
 
 Depending upon the nature of the activity, stakeholder participation may be face-to-face joint working, remote joint working, individual activity or any combination of the three.
 
-What follows is a loose, working structure of each of these groups.&#x20;
+What follows is the structure of each of these groups.&#x20;
 
 ### Users Group (in-development)
 

@@ -19,12 +19,15 @@ In short:
 
 To explain in more detail, we have a couple of examples
 
-1. **A researcher (Ace Centre, NHS service, Academic partner etc) wishes to carry out a questionnaire on a topic to gain your views**
+1. **A researcher (Ace Centre, NHS service, Academic partner, etc) wishes to carry out a questionnaire on a topic to gain your views**
 
-* If you have agreed to be involved with external research and  development (Q6 of the Consent form) a member of the administration team will see who in the network meets the criteria set out by the researcher. The administration team may need to contact you to ask further information to see if you meet any specific criteria.&#x20;
-* The administration team will contact you with a Participant information leaflet to see if you are interested. If you are interested, it will be up to you follow this enquiry up. We will not further contact you if you do not wish to be contacted. _NB: We may do this inital enquiry via phone, email or letter depending on how you have requested to find out_
-* You will then be sent any more specific consent form to agree to the study. We will keep this brief and ideally not overlap with consent already provided to be part of the network. **Note - depending on the study design specific information about you may be required to be shared with the Principle Investigator. But this will be minimal and only with your explicit consent.**&#x20;
+* If you have agreed to be involved with external research and development (Q6 of the Consent form) a member of the administration team will see who in the network meets the criteria set out by the researcher. The administration team may need to contact you to ask further information to see if you meet any specific criteria.&#x20;
+* The administration team will contact you with a Participant information leaflet to see if you are interested. If you are interested, following this enquiry will be up to you. We will not further contact you if you do not wish to be contacted. _NB: We may do this inital enquiry via phone, email or letter, depending on how you have requested to find out_
+* You will then be sent a more specific consent form to agree to the study. We will keep this brief and ideally not overlap with consent already provided to be part of the network. **Note - depending on the study design, specific information about you may be required to be shared with the Principle Investigator. But this will be minimal and only with your explicit consent.**&#x20;
 * Only the minimal details will be passed on to the team. This will have been identified in the initial research plan.
+
+2. **Ace Centre itself want to ask your opinion on a local service delivery improvement plan**
+3. **A company wish to gain your feedback on a new feature or total product.**
 
 
 
