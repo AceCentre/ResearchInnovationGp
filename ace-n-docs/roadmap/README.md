@@ -4,7 +4,15 @@ description: An overview of the project plan and roadmap
 
 # 📅 Roadmap
 
-Initally we want to focus on the **User Group** first. As such we created a small "Founding members" group for consultation. We presented the idea and consulted on initial questions.  Following feedback from this, the group felt that physical - face-to-face meetings are more desirable and practical given people's difficulties in communicating using online systems.  Also Email would be the easiest way for members to keep in touch and would be happy for Ace Centre to be involved in the name of the group. See the minutes of each meeting on the following pages- and feedback from this questionnaire
+
+
+### Current Situation - Summary
+
+Initially, we want to focus on the **User Group** first. As such, we created a small "Founding members" group for consultation. We presented the idea and consulted on initial questions.  Following feedback from this, the group felt that face-to-face meetings are more desirable and practical given people's difficulties in communicating using online systems. However, a significant group also raised the fact that it is sometimes more convenient to have asynchronous communication via online means. As such, Email would be the easiest way for members to keep in touch, and members would be happy for Ace Centre to be involved in the name of the group.&#x20;
+
+See the minutes of each meeting on the following pages- and feedback from this questionnaire
+
+### Roadmap
 
 See below for a Gantt-style chart - or [click here ](https://mermaid.ink/img/pako:eNqFkk9r3DAQxb\_KoJMXbFhrNyn4VrJpobBJSdpDwJepNV6L6I-xpCZLyHfvaL1QbwvtnIw076f3xvMmOq9INOKALsbWAZfCSJ\_8ZDEC7HbVfl89Pc03UUdD8OBRWRzB9\_CxI7ghFyeC29eRphjmRnrtTFIU4IXoWeExgFxLWdV1JdfcMTcF6qL2Dr4HmuDz5NM4n-e6tagN9N4Y\_6LdAXoi9QO7Z-A2p6CGRTXKOyoB6xLyG7KSsoRa\_YbdDKinAMjCbPgboQVLFKEY8WjZ\_ukq6INL4wou0MgWfzIcOAxT5aZac4ZNCZsF\_-uAgdgTj4BB2S6P5hQICn7wjGxOs6XAYuwjR56R2\_UF6Rh0hwb2bC-DinujBrSXrs4sOAO3C-DmMvnfvEef4vBP3NUCt\_0Tl4PKRdDiDvM\_RLM6QVhyvZBf\_SdegOJLcrRqcvOHhZAhknWiFJZ4EbXiDX3LnFbEgSy1ouFPRT0mE1vRunduxRT949F1oolTolKkMW\_yTuNhQjsfvv8CDenZaQ?type=png)for a larger view. Detail on these phases are below.&#x20;
 
@@ -14,7 +22,7 @@ gantt
     title Ace Centre Experts Network (ACE-N) Implementation Plan
 
     section Phase 1 Planning and Preparation
-		Stakeholder Identification :a1, 2023-10-10, 20d
+		Stakeholder Identification :a1, 2023-08-10, 20d
 		Communication Channels    :a2, after a1, 15d
 		Legal and Ethical Compliance :a3, after a2, 10d
 		Resource Allocation       :a4, after a3, 10d
@@ -47,27 +55,37 @@ gantt
 
 **Objective**: To set the foundation for ACE-N by identifying who will be involved and how we will communicate with them.
 
-* **Identify Stakeholders**: Determine who should be part of ACE-N, focusing on users, supporters, and professionals.
-* **Choose Communication Methods**: Decide on the best ways to keep everyone in the loop, such as emails or online forums.
-* **Legal Checks**: Make sure we have all the permissions we need to collect and store data.
-* **Resource Planning**: Figure out what we need in terms of time, people, and money to make ACE-N a success.
+* [ ] **Identify Stakeholders**: Determine who should be part of ACE-N, focusing on users, supporters, and professionals.
+* [ ] **Choose Communication Methods**: Decide on the best ways to keep everyone in the loop, such as emails or online forums.
+* [ ] **Legal Checks**: Make sure we have all the permissions we need to collect and store data.
+* [ ] **Resource Planning**: Figure out what we need in terms of time, people, and money to make ACE-N a success.
 
 #### Phase 2: Building the Team
 
 **Objective**: To formally invite stakeholders to join ACE-N and get them up to speed.
 
-* **Public Announcement**: Let the world know about ACE-N and invite people to join.
-* **Onboarding**: Welcome new members and introduce them to how ACE-N works.
-* **Kick-off Meeting**: Hold an initial meeting to set the stage for future collaboration.
+* [ ] **Public Announcement**: Let the world know about ACE-N and invite people to join. (See [Information Sheets](../users/information-sheets.md))
+* [ ] **Onboarding**: Welcome new members and introduce them to how ACE-N works.
+  * [ ] Onboarding online,&#x20;
+  * [ ] Data collection and interview processes formulated
+* [ ] **Kick-off Meeting**: Hold an initial meeting to set the stage for future collaboration.
+  * [ ] Date set
+  * [ ] Agenda Set
 
 #### Phase 3: Rolling Up Our Sleeves
 
 **Objective**: To start the real work of ACE-N, from regular meetings to specific projects.
 
-* **Hold Regular Meetings**: Keep the conversation going through scheduled get-togethers.
-* **Assign Tasks**: Give everyone a role that plays to their strengths and interests.
-* **Feedback Mechanism**: Create a way for members to share their thoughts on how things are going.
-* **Data Gathering**: Collect the information we need to make ACE-N even better.
+* [ ] **Hold Regular Meetings**: Keep the conversation going through scheduled get-togethers.
+  * [ ] Set Dates for physical
+  * [ ] Set Online dates
+* [ ] **Assign Tasks**: Give everyone a role that matches their strengths and interests.
+  * [ ] Task list created
+  * [ ] Assignment
+* [ ] **Feedback Mechanism**: Create a way for members to share their thoughts on how things are going.
+  * [ ] Feedback forms
+  *
+* [ ] **Data Gathering**: Collect the information we need to make ACE-N even better.
 
 #### Phase 4: Taking Stock
 
