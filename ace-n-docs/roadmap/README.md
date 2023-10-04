@@ -6,13 +6,13 @@ description: An overview of the project plan and roadmap
 
 ### Current Situation - Summary
 
-Initially, we want to focus on the **User Group** first. As such, we created a small "Founding members" group for consultation. We presented the idea and consulted on initial questions.  Following feedback from this, the group felt that face-to-face meetings are more desirable and practical given people's difficulties in communicating using online systems. However, a significant group also raised the fact that it is sometimes more convenient to have asynchronous communication via online means. As such, Email would be the easiest way for members to keep in touch, and members would be happy for Ace Centre to be involved in the name of the group.&#x20;
+Initially, we want to focus on the **User Group** first. As such, we created a small "Founding members" group for consultation. We presented the idea and consulted on initial questions.  Following feedback from this, the group felt that face-to-face meetings are more desirable and practical given people's difficulties in communicating using online systems. However, a significant group also raised the fact that it is sometimes more convenient to have asynchronous communication via online means. Email is preferable, but a way for people to see old discussions or share things beyond an email would be helpful.  Researching solutions led to us to use discourse, which allows an email-only approach if necessary.&#x20;
 
-See the minutes of each meeting on the following pages- and feedback from this questionnaire
+We aim to enrol a small group of people (around 20) in November 2023. This will allow us to check our onboarding processes for data collection and the online forum. We aim to have face-to-face and online meetings from early 2024.&#x20;
 
 ### Roadmap
 
-See below for a Gantt-style chart - or [click here ](https://mermaid.ink/img/pako:eNqFkk9r3DAQxb\_KoJMXbFhrNyn4VrJpobBJSdpDwJepNV6L6I-xpCZLyHfvaL1QbwvtnIw076f3xvMmOq9INOKALsbWAZfCSJ\_8ZDEC7HbVfl89Pc03UUdD8OBRWRzB9\_CxI7ghFyeC29eRphjmRnrtTFIU4IXoWeExgFxLWdV1JdfcMTcF6qL2Dr4HmuDz5NM4n-e6tagN9N4Y\_6LdAXoi9QO7Z-A2p6CGRTXKOyoB6xLyG7KSsoRa\_YbdDKinAMjCbPgboQVLFKEY8WjZ\_ukq6INL4wou0MgWfzIcOAxT5aZac4ZNCZsF\_-uAgdgTj4BB2S6P5hQICn7wjGxOs6XAYuwjR56R2\_UF6Rh0hwb2bC-DinujBrSXrs4sOAO3C-DmMvnfvEef4vBP3NUCt\_0Tl4PKRdDiDvM\_RLM6QVhyvZBf\_SdegOJLcrRqcvOHhZAhknWiFJZ4EbXiDX3LnFbEgSy1ouFPRT0mE1vRunduxRT949F1oolTolKkMW\_yTuNhQjsfvv8CDenZaQ?type=png)for a larger view. Detail on these phases are below.&#x20;
+See below for a Gantt-style chart - or [click here ](https://mermaid.ink/img/pako:eNqFkk9r3DAQxb\_KoJMXbFhrNyn4VrJpobBJSdpDwJepNV6L6I-xpCZLyHfvaL1QbwvtnIw076f3xvMmOq9INOKALsbWAZfCSJ\_8ZDEC7HbVfl89Pc03UUdD8OBRWRzB9\_CxI7ghFyeC29eRphjmRnrtTFIU4IXoWeExgFxLWdV1JdfcMTcF6qL2Dr4HmuDz5NM4n-e6tagN9N4Y\_6LdAXoi9QO7Z-A2p6CGRTXKOyoB6xLyG7KSsoRa\_YbdDKinAMjCbPgboQVLFKEY8WjZ\_ukq6INL4wou0MgWfzIcOAxT5aZac4ZNCZsF\_-uAgdgTj4BB2S6P5hQICn7wjGxOs6XAYuwjR56R2\_UF6Rh0hwb2bC-DinujBrSXrs4sOAO3C-DmMvnfvEef4vBP3NUCt\_0Tl4PKRdDiDvM\_RLM6QVhyvZBf\_SdegOJLcrRqcvOHhZAhknWiFJZ4EbXiDX3LnFbEgSy1ouFPRT0mE1vRunduxRT949F1oolTolKkMW\_yTuNhQjsfvv8CDenZaQ?type=png)for a larger view. Details on these phases are below.&#x20;
 
 ```mermaid
 gantt
