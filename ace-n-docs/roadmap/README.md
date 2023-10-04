@@ -4,8 +4,6 @@ description: An overview of the project plan and roadmap
 
 # 📅 Roadmap
 
-
-
 ### Current Situation - Summary
 
 Initially, we want to focus on the **User Group** first. As such, we created a small "Founding members" group for consultation. We presented the idea and consulted on initial questions.  Following feedback from this, the group felt that face-to-face meetings are more desirable and practical given people's difficulties in communicating using online systems. However, a significant group also raised the fact that it is sometimes more convenient to have asynchronous communication via online means. As such, Email would be the easiest way for members to keep in touch, and members would be happy for Ace Centre to be involved in the name of the group.&#x20;
@@ -56,9 +54,16 @@ gantt
 **Objective**: To set the foundation for ACE-N by identifying who will be involved and how we will communicate with them.
 
 * [ ] **Identify Stakeholders**: Determine who should be part of ACE-N, focusing on users, supporters, and professionals.
-* [ ] **Choose Communication Methods**: Decide on the best ways to keep everyone in the loop, such as emails or online forums.
-* [ ] **Legal Checks**: Make sure we have all the permissions we need to collect and store data.
-* [ ] **Resource Planning**: Figure out what we need in terms of time, people, and money to make ACE-N a success.
+* [x] **Choose Communication Methods**: Decide on the best ways to keep everyone in the loop, such as emails or online forums.
+* [ ] **Setup and design of Communication channels**
+  * [ ] **Data collection and interview processes formulated**
+  * [ ] **Design ACE-N Discourse forum**
+    * [ ] **Suitable High contrast default theme to deal with VI issues**
+    * [ ] **Logo checks**
+    * [ ] **Settings verify (Email only should be possible)**
+    * [ ] **Design and check the onboarding process for new joiners**
+* [ ] **Legal Checks**: Ensure we have all the permissions we need to collect and store data.
+* [ ] **Resource Planning**: Figure out what we need in terms of time, people, and costs
 
 #### Phase 2: Building the Team
 
@@ -67,7 +72,6 @@ gantt
 * [ ] **Public Announcement**: Let the world know about ACE-N and invite people to join. (See [Information Sheets](../users/information-sheets.md))
 * [ ] **Onboarding**: Welcome new members and introduce them to how ACE-N works.
   * [ ] Onboarding online,&#x20;
-  * [ ] Data collection and interview processes formulated
 * [ ] **Kick-off Meeting**: Hold an initial meeting to set the stage for future collaboration.
   * [ ] Date set
   * [ ] Agenda Set
