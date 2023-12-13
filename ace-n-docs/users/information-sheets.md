@@ -1,4 +1,8 @@
 # Information Sheets
 
-{% file src="../.gitbook/assets/Ace Centre Experts flyer (1).pdf" %}
+{% file src="../.gitbook/assets/Ace Centre Experts flyer.pdf" %}
+Flyer to download\
 
+{% endfile %}
+
+<figure><img src="../.gitbook/assets/Ace Centre Experts flyer.png" alt=""><figcaption></figcaption></figure>

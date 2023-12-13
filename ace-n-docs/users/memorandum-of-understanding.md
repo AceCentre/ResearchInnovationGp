@@ -6,7 +6,7 @@ This non-binding agreement reflects our commitment to collaborate, formally and 
 
 ### Objectives
 
-The objects of the ACE Network are:
+The objects of the ATUN are:
 
 1. To advance the development of electronic Assistive Technology services and products.
 2. To provide users with a supportive and welcoming environment that enables rich and valuable discourse.
@@ -19,4 +19,3 @@ The objects of the ACE Network are:
 3. We will recognise and reward the contribution of users and members of the public who we involve in our work.
 4. We are committed to the most effective use of resources and will seek opportunities to collaborate where appropriate, rather than duplicate effort.
 5. We are committed to sharing best practice and learning.
-

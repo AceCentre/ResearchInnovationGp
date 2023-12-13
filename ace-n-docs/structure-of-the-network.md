@@ -9,8 +9,8 @@ What follows is the structure of each of these groups.&#x20;
 ### Users Group (in-development)
 
 * Research & Development Co-ordinator (Will Wade)
-* Ace Centre Users Group Lead (  )
-* User Group Lead Representive ( )&#x20;
+* Communications and Engagement team (Michael Ritson, Will Wade, Claire Elliott)
+* User Group Lead Representative (TBA )&#x20;
 
 Read [here](users/) for more detailed information about the members and potential activities of this group.&#x20;
 
@@ -20,7 +20,7 @@ Read [here](structure-of-the-network.md#supporters-group) for more information o
 
 * Ace Centre Research & Development Co-ordinator (Will Wade)
   * Ace Centre Supporters Group Lead
-  * Supporters Group Chair
+  * Communications and Engagement team (Michael Ritson, Will Wade)
   * Members
 
 ### Professionals Group (_Planned for late 2023_)
