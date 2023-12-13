@@ -4,7 +4,7 @@
 **Please note: This page is in **_**ACTIVE**_** development and all content may change dramatically.**&#x20;
 {% endhint %}
 
-### 1. As a user group member of ACE-N, you are entitled to be reimbursed for all reasonable out-of-pocket expenses.
+### 1. As a user group member of ATUN, you are entitled to be reimbursed for all reasonable out-of-pocket expenses.
 
 #### What expenses can you claim for?
 

@@ -12,7 +12,7 @@ Ace Centre recognise the value of lived experience that people who support users
 
 Those that support users of AAC & eAT have a vital contribution to make in terms of identifying issues with existing services and other resources and in developing and testing effective improvements and solutions.&#x20;
 
-We recognise the importance of engaging supporters in our planned ACE-N.&#x20;
+We recognise the importance of engaging supporters in our planned ATUN.&#x20;
 
 We aim to establish a "Supporters" group that benefits both the participating users themselves and the AT community as a whole.&#x20;
 

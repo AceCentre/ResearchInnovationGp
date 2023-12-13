@@ -17,7 +17,7 @@ See below for a Gantt-style chart - or [click here ](https://mermaid.ink/img/pak
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title Ace Centre Experts Network (ACE-N) Implementation Plan
+    title Assitive Tech User's Network(ATUN) Implementation Plan
 
     section Phase 1 Planning and Preparation
 		Stakeholder Identification :a1, 2023-08-10, 20d
@@ -51,13 +51,13 @@ gantt
 
 #### Phase 1: Laying the Groundwork
 
-**Objective**: To set the foundation for ACE-N by identifying who will be involved and how we will communicate with them.
+**Objective**: To set the foundation for ATUN by identifying who will be involved and how we will communicate with them.
 
-* [ ] **Identify Stakeholders**: Determine who should be part of ACE-N, focusing on users, supporters, and professionals.
+* [ ] **Identify Stakeholders**: Determine who should be part of ATUN, focusing on users, supporters, and professionals.
 * [x] **Choose Communication Methods**: Decide on the best ways to keep everyone in the loop, such as emails or online forums.
 * [ ] **Setup and design of Communication channels**
   * [ ] **Data collection and interview processes formulated**
-  * [ ] **Design ACE-N Discourse forum**
+  * [ ] **Design ATUN Discourse forum**
     * [ ] **Suitable High contrast default theme to deal with VI issues**
     * [ ] **Logo checks**
     * [ ] **Settings verify (Email only should be possible)**
@@ -67,10 +67,10 @@ gantt
 
 #### Phase 2: Building the Team
 
-**Objective**: To formally invite stakeholders to join ACE-N and get them up to speed.
+**Objective**: To formally invite stakeholders to join ATUN and get them up to speed.
 
-* [ ] **Public Announcement**: Let the world know about ACE-N and invite people to join. (See [Information Sheets](../users/information-sheets.md))
-* [ ] **Onboarding**: Welcome new members and introduce them to how ACE-N works.
+* [ ] **Public Announcement**: Let the world know about ATUN and invite people to join. (See [Information Sheets](../users/information-sheets.md))
+* [ ] **Onboarding**: Welcome new members and introduce them to how ATUN works.
   * [ ] Onboarding online,&#x20;
 * [ ] **Kick-off Meeting**: Hold an initial meeting to set the stage for future collaboration.
   * [ ] Date set
@@ -78,7 +78,7 @@ gantt
 
 #### Phase 3: Rolling Up Our Sleeves
 
-**Objective**: To start the real work of ACE-N, from regular meetings to specific projects.
+**Objective**: To start the real work of ATUN, from regular meetings to specific projects.
 
 * [ ] **Hold Regular Meetings**: Keep the conversation going through scheduled get-togethers.
   * [ ] Set Dates for physical
@@ -89,23 +89,23 @@ gantt
 * [ ] **Feedback Mechanism**: Create a way for members to share their thoughts on how things are going.
   * [ ] Feedback forms
   *
-* [ ] **Data Gathering**: Collect the information we need to make ACE-N even better.
+* [ ] **Data Gathering**: Collect the information we need to make ATUN even better.
 
 #### Phase 4: Taking Stock
 
-**Objective**: To evaluate how well ACE-N is doing and where we can improve.
+**Objective**: To evaluate how well ATUN is doing and where we can improve.
 
 * **Measure Success**: Use key indicators to assess how well we're doing.
-* **Gather Feedback**: Ask members what they think about ACE-N and how it could be better.
+* **Gather Feedback**: Ask members what they think about ATUN and how it could be better.
 * **Share Updates**: Let members know how their input has made a difference.
 
 #### Phase 5: Looking Ahead
 
-**Objective**: To think about the future, from expanding ACE-N to refining our current activities.
+**Objective**: To think about the future, from expanding ATUN to refining our current activities.
 
-* **Consider Expansion**: Think about bringing more people into ACE-N or tackling new challenges.
-* **Continuous Improvement**: Use what we've learned to make ACE-N even better.
+* **Consider Expansion**: Think about bringing more people into ATUN or tackling new challenges.
+* **Continuous Improvement**: Use what we've learned to make ATUN even better.
 
 ***
 
-We aim to reach Phase 3 by January 2024. Your participation and feedback are crucial for the success of ACE-N. Together, we can make a meaningful impact in the field of AAC and eAT.
+We aim to reach Phase 3 by January 2024. Your participation and feedback are crucial for the success of ATUN. Together, we can make a meaningful impact in the field of AAC and eAT.

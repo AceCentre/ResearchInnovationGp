@@ -16,7 +16,7 @@ How we aim to achieve this goal by&#x20;
 * Valuing knowledge.  We feel it is imperative that we actively value end users of AT. This is a two-way process. To fully value members means giving them meaningful and purposeful roles within the network. We will support members to help develop and improve the network and ongoing outcomes
 * Providing a forum for end users and professionals in the sector to meet and share experiences. We value the need for both face-to-face and distance communication.&#x20;
 
-To meet these aims, we feel that a new members network to help facilitate the development of the field is essential. Ace Centre is well suited to do this, being a charity and where we can fund the administration of such a group where other organisations may struggle to do this for the long term.  We want to facilitate the members to shape the organisation. Ultimately, we plan to recruit to the _Ace Centre Experts Network (ACE-N)_ - from three main groups:
+To meet these aims, we feel that a new members network to help facilitate the development of the field is essential. Ace Centre is well suited to do this, being a charity and where we can fund the administration of such a group where other organisations may struggle to do this for the long term.  We want to facilitate the members to shape the organisation. Ultimately, we plan to recruit to the _Assitive Tech User's Network(ATUN)_ - from three main groups:
 
 * **Users** - people who use AAC and electronic Assistive Technology (eAT)
 * **Supporters** - including family members and caregivers

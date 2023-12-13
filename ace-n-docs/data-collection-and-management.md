@@ -1,6 +1,6 @@
 # ℹ Data collection & management
 
-As an ACE-N participant, you will be asked to complete an Enrolment Form. The data you provide will be collected, stored and managed in accordance with Ace Centre's [Privacy Policy](https://acecentre.org.uk/page/privacy).&#x20;
+As an ATUN participant, you will be asked to complete an Enrolment Form. The data you provide will be collected, stored and managed in accordance with Ace Centre's [Privacy Policy](https://acecentre.org.uk/page/privacy).&#x20;
 
 {% hint style="info" %}
 If you are interested in joining the group an Ace Centre member of staff will contact you and can help you go through this form if you wish. [Ring or drop us an email if this is the case](https://acecentre.org.uk/contact).&#x20;
@@ -12,8 +12,8 @@ You are may wish to get involved with a range of activities e.g. joining the ema
 
 In short:
 
-* Ace Centre will collect the minimum amount of data we need to operate ACE-N effectively.&#x20;
-* We will store this information securely and only retain it for as long as is necessary to meet the purposes of ACE-N (or to meet statutory requirements where these are more onerous).
+* Ace Centre will collect the minimum amount of data we need to operate ATUN effectively.&#x20;
+* We will store this information securely and only retain it for as long as is necessary to meet the purposes of ATUN (or to meet statutory requirements where these are more onerous).
 * We will not share your data with any third parties unless we have your prior, explicit consent to do so (or where we are required to do so by law).&#x20;
 * Under data protection legislation, you have several rights in relation to your personal information. For more information about these rights, see our [Privacy Policy](https://acecentre.org.uk/page/privacy). To exercise any of these rights, please get in touch with [dpo@acecentre.org.uk](mailto:dpo@acecentre.org.uk)&#x20;
 

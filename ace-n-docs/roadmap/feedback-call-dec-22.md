@@ -10,7 +10,7 @@ This is it in brief:
 
 * Email is voted as the best way to stay connected
 * People are happy with the name as it is – with one person saying we should not use the Ace centre name.&#x20;
-* Created a roadmap. You can see this – and any other tweaks to our planning here: [Roadmap - Ace Centre Experts Network (ACE-N)](https://docs.acecentre.org.uk/ace-centre-experts-ace/S4kJQl5iZwvp4ckVj0MO/roadmap) – let us know your thoughts. We aim to speak to you all separately in the new year to get you more formally involved. Right now, there are 15 of you I’m B’ccing into this email - So, apologies if this is spam for you right now but come the new year, I’ll migrate this to an email discussion forum of some kind and seek your permission/interest.&#x20;
+* Created a roadmap. You can see this – and any other tweaks to our planning here: [Roadmap - Assitive Tech User's Network(ATUN)](https://docs.acecentre.org.uk/ace-centre-experts-ace/S4kJQl5iZwvp4ckVj0MO/roadmap) – let us know your thoughts. We aim to speak to you all separately in the new year to get you more formally involved. Right now, there are 15 of you I’m B’ccing into this email - So, apologies if this is spam for you right now but come the new year, I’ll migrate this to an email discussion forum of some kind and seek your permission/interest.&#x20;
 
 &#x20;
 
