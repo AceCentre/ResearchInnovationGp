@@ -69,7 +69,7 @@ gantt
 
 **Objective**: To formally invite stakeholders to join ATUN and get them up to speed.
 
-* [ ] **Public Announcement**: Let the world know about ATUN and invite people to join. (See [Information Sheets](../users/information-sheets/))
+* [ ] **Public Announcement**: Let the world know about ATUN and invite people to join. (See [Information Sheets](../marketing-materials/information-sheets.md))
 * [ ] **Onboarding**: Welcome new members and introduce them to how ATUN works.
   * [ ] Onboarding online,
 * [ ] **Kick-off Meeting**: Hold an initial meeting to set the stage for future collaboration.

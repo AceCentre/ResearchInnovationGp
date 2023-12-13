@@ -9,11 +9,15 @@
   * [June-August](roadmap/june-august.md)
 * [ℹ Data collection & management](data-collection-and-management.md)
 * [🙂 Users](users/README.md)
-  * [Information for Joining](users/information-sheets/README.md)
-    * [About the group and How to Join](users/information-sheets/about-the-group-and-how-to-join.md)
   * [Potential activities](users/potential-activities.md)
   * [Memorandum of Understanding](users/memorandum-of-understanding.md)
   * [Expenses & payment](users/expenses-and-payment.md)
 * [👨👨👧 Supporters (Scheduled)](supporters-scheduled.md)
 * [👩⚕ Professionals (Scheduled)](professionals-scheduled.md)
 * [Useful references](useful-references.md)
+
+## Marketing Materials
+
+* [About the group and How to Join](marketing-materials/about-the-group-and-how-to-join.md)
+* [Information for Joining](marketing-materials/information-sheets.md)
+* [Email Advert](marketing-materials/email-advert.md)
