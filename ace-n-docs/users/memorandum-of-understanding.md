@@ -8,7 +8,7 @@ This non-binding agreement reflects our commitment to collaborate, formally and 
 
 The objects of the ACE Network are:
 
-1. To advance the development of AAC and eAT services and products.
+1. To advance the development of electronic Assistive Technology services and products.
 2. To provide users with a supportive and welcoming environment that enables rich and valuable discourse.
 3. To act as a consultative network for research and development priorities both for Ace Centre's work and, subject to individual participant's consent, for the work of other organisations.
 

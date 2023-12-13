@@ -18,11 +18,11 @@ How we aim to achieve this goal by&#x20;
 
 To meet these aims, we feel that a new members network to help facilitate the development of the field is essential. Ace Centre is well suited to do this, being a charity and where we can fund the administration of such a group where other organisations may struggle to do this for the long term.  We want to facilitate the members to shape the organisation. Ultimately, we plan to recruit to the _Assitive Tech User's Network(ATUN)_ - from three main groups:
 
-* **Users** - people who use AAC and electronic Assistive Technology (eAT)
+* **Users** - people who use Assistive Technology (AT). Focusing on electronic Assistive Technology. 
 * **Supporters** - including family members and caregivers
-* **Professionals** - education, health and social care professionals working to provide local, regional and national AAC and eAT services and support
+* **Professionals** - education, health and social care professionals working to provide local, regional and national Assistive Technology services and support
 
-As a first step, we want to establish a stakeholder group of people who use AAC/eAT (which we shall shorten to "**Users**" for this document)_._ \
+As a first step, we want to establish a stakeholder group of people who use Assistive Technology (which we shall shorten to "**Users**" for this document)_._ \
 \
 _"Members"_ or _"Experts"_ is the term we use to denote ANY group member.
 
