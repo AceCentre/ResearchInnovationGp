@@ -1,10 +1,10 @@
 # About the group and How to Join
 
-## 👋 Joining Our Group
-
 {% hint style="info" %}
 This is an [easy-read](https://www.learningdisabilities.org.uk/learning-disabilities/a-to-z/e/easy-readb) version of our User Group. Please take a look at our other pages if you want more detailed information.
 {% endhint %}
+
+​Our group is about supporting people like you who use assistive technology. This may be a computer to help you talk or equipment like a switch to access the computer. Or maybe you use pictures and point to them. We want you to help make this equipment better for everyone but we also want you to have the chance to meet others like you.
 
 ### Things You Can Do in Our Group
 
