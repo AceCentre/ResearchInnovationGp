@@ -38,4 +38,14 @@ ATUN is an acronym of Assistive Tech User's Network
 
 
 
+{% hint style="info" %}
+**Why ATUN?**\
+As mentioned above this is a working title. We settled on this after discussion with end users and staff. But really this discussion group has been a small group to this point hence leaving it flexible. However we needed something to get started. \
+\
+\- We wanted it to be owned by end users. As much as Ace Centre are keen to invest in end user's opinions and lived experience - their views are not owned by the charity. So for this reason we felt removing the Ace Centre's name from the title\
+\- ATUN is Spanish  (Atún _at least)_ for Tuna. Atun is also a name meaning **Educator, Teacheress, One who Teaches or New -** used principally in Malayalam, Marathi, Arabic, Tamil, Telugu, Oriya, Gujarati, Bengali, Hindi and Kannada has its origin in Arabic language. We are keen on supporting all nationalities and languages so again we feel this is a fitting name,&#x20;
+{% endhint %}
+
+
+
 ##
