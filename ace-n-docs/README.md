@@ -5,7 +5,7 @@ description: >-
   left to navigate through the areas.
 ---
 
-# 🎉 Introduction to the Ace Centre Experts Network (ACE-N)
+# 🎉 Introduction to the Assistive Tech User's Network (ATUN)
 
 Ace Centre's vision is a society where everyone is given the support they need to communicate, be understood and fulfil their potential. We believe that this vision can only be achieved by open and collaborative working.
 
@@ -33,7 +33,7 @@ _"Members"_ or _"Experts"_ is the term we use to denote ANY group member.
 
 Ace Centre is not capitalised. It is not an acronym
 
-ACE-N is an _acronym_ of Ace Centre Experts - Network.
+ATUN is an acronym of Assistive Tech User's Network
 {% endhint %}
 
 

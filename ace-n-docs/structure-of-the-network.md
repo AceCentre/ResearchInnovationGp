@@ -1,6 +1,6 @@
 # 🗺 Structure of the Network
 
-_The ACE Network (ACE-N)_ will consist of three member stakeholder groups, "**Users**", "**Supporters**" and "**Professionals**" and Ace Centre staff.
+_The Assistive Tech User's Network (ATUN)_ will consist of three member stakeholder groups, "**Users**", "**Supporters**" and "**Professionals**" and Ace Centre staff.
 
 Depending upon the nature of the activity, stakeholder participation may be face-to-face joint working, remote joint working, individual activity or any combination of the three.
 
