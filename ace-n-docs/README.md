@@ -53,5 +53,3 @@ One of the first actions for the group is to discuss a name and logo - an exampl
 {% endhint %}
 
 ##
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>This is some text</td><td></td><td><a href="structure-of-the-network.md">structure-of-the-network.md</a></td><td><a href=".gitbook/assets/DALL·E 2023-12-13 09.56.43 - A simple, vector-style image of a very friendly cartoon tuna fish, with a smaller iPad featuring a grid of symbols. The tuna has a big, welcoming smil.png">DALL·E 2023-12-13 09.56.43 - A simple, vector-style image of a very friendly cartoon tuna fish, with a smaller iPad featuring a grid of symbols. The tuna has a big, welcoming smil.png</a></td></tr><tr><td></td><td></td><td>This is some text</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
