@@ -72,3 +72,32 @@ flowchart TD
     S --> A
 
 ```
+
+### New content generation
+
+
+
+```mermaid
+flowchart TD
+    A[Identify Content Needs and Ideas]
+    A --> B{Gather Input from Community}
+    B -->|Feedback Received| C[Analyze Community Suggestions]
+    B -->|No Feedback| D[Research Trends in AT]
+    C --> E[Select Content Topics]
+    D --> E
+    E --> F[Assign Content Creation]
+    F --> G[Draft Content]
+    G --> H{Review for Accuracy and Sensitivity}
+    H -->|Revisions Needed| I[Edit and Revise Content]
+    H -->|Approved| J[Schedule for Publication]
+    I --> J
+    J --> K[Publish Content]
+    K --> L[Promote on Forum and Social Media]
+    L --> M[Monitor Engagement and Feedback]
+    M --> N{Evaluate Feedback}
+    N -->|Positive| O[Plan Similar Content in Future]
+    N -->|Negative| P[Identify Areas for Improvement]
+    O --> A
+    P --> A
+
+```
