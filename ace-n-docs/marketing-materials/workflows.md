@@ -42,3 +42,33 @@ flowchart TD
 ```
 
 ### Weekly forum management
+
+
+
+```mermaid
+flowchart TD
+    A[Daily Content Review]
+    A --> B{Assess Content for Guidelines Adherence}
+    B -->|Meets Guidelines| C[Approve and Publish Content]
+    B -->|Violates Guidelines| D[Flag for Moderation]
+    C --> E[Monitor User Reactions]
+    D --> F{Determine Severity of Violation}
+    F -->|Minor Violation| G[Edit Content with Explanation]
+    F -->|Major Violation| H[Remove Content and Notify User]
+    G --> I[Inform User of Edit Reason]
+    H --> J[Send Warning or Infraction Notice]
+    E --> K{Assess Feedback}
+    K -->|Positive| L[Encourage Similar Content]
+    K -->|Negative| M[Review and Take Necessary Action]
+    I --> N[Monitor User's Future Posts]
+    J --> O[Track User Infractions]
+    L --> P[Regular Content Strategy Review]
+    M --> Q[Adjust Guidelines and Moderation Policy if Needed]
+    N --> R[Offer Guidance for Future Posts]
+    O --> S[Consider Temporary or Permanent Ban for Repeat Offenders]
+    P --> A
+    Q --> A
+    R --> A
+    S --> A
+
+```
