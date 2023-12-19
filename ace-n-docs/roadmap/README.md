@@ -8,7 +8,7 @@ description: An overview of the project plan and roadmap
 
 Initially, we want to focus on the **User Group** first. As such, we created a small "Founding members" group for consultation. We presented the idea and consulted on initial questions. Following feedback from this, the group felt that face-to-face meetings are more desirable and practical given people's difficulties in communicating using online systems. However, a significant group also raised the fact that it is sometimes more convenient to have asynchronous communication via online means. Email is preferable, but a way for people to see old discussions or share things beyond an email would be helpful. Researching solutions led to us to use discourse, which allows an email-only approach if necessary.
 
-We aim to enrol a small group of people (around 20) in November 2023. This will allow us to check our onboarding processes for data collection and the online forum. We aim to have face-to-face and online meetings from early 2024.
+We aim to enrol a small group of people (around 20) in December 2023. This will allow us to check our onboarding processes for data collection and the online forum. We aim to have face-to-face and online meetings from early 2024.
 
 ### Roadmap
 
