@@ -53,25 +53,25 @@ gantt
 
 **Objective**: To set the foundation for ATUN by identifying who will be involved and how we will communicate with them.
 
-* [ ] **Identify Stakeholders**: Determine who should be part of ATUN, focusing on users, supporters, and professionals.
+* [x] **Identify Stakeholders**: Determine who should be part of ATUN, focusing on users, supporters, and professionals.
 * [x] **Choose Communication Methods**: Decide on the best ways to keep everyone in the loop, such as emails or online forums.
-* [ ] **Setup and design of Communication channels**
-  * [ ] **Data collection and interview processes formulated**
-  * [ ] **Design ATUN Discourse forum**
-    * [ ] **Suitable High contrast default theme to deal with VI issues**
-    * [ ] **Logo checks**
-    * [ ] **Settings verify (Email only should be possible)**
-    * [ ] **Design and check the onboarding process for new joiners**
-* [ ] **Legal Checks**: Ensure we have all the permissions we need to collect and store data.
-* [ ] **Resource Planning**: Figure out what we need in terms of time, people, and costs
+* [x] **Setup and design of Communication channels**
+  * [x] **Data collection and interview processes formulated**
+  * [x] **Design ATUN Discourse forum**
+    * [x] **Suitable High contrast default theme to deal with VI issues**
+    * [x] **Logo checks**
+    * [x] **Settings verify (Email only should be possible)**
+    * [x] **Design and check the onboarding process for new joiners**
+* [x] **Legal Checks**: Ensure we have all the permissions we need to collect and store data.
+* [x] **Resource Planning**: Figure out what we need in terms of time, people, and costs
 
 #### Phase 2: Building the Team
 
 **Objective**: To formally invite stakeholders to join ATUN and get them up to speed.
 
-* [ ] **Public Announcement**: Let the world know about ATUN and invite people to join. (See [Information Sheets](../marketing-materials/information-sheets.md))
-* [ ] **Onboarding**: Welcome new members and introduce them to how ATUN works.
-  * [ ] Onboarding online,
+* [x] **Public Announcement**: Let the world know about ATUN and invite people to join. (See [Information Sheets](../marketing-materials/information-sheets.md))
+* [x] **Onboarding**: Welcome new members and introduce them to how ATUN works.
+  * [x] Onboarding online,
 * [ ] **Kick-off Meeting**: Hold an initial meeting to set the stage for future collaboration.
   * [ ] Date set
   * [ ] Agenda Set
