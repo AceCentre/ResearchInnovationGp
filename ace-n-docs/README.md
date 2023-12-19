@@ -29,9 +29,9 @@ _"Members"_ or _"Experts"_ is the term we use to denote ANY group member.
 {% hint style="info" %}
 **A note on branding**
 
-**ALL OF THIS DOCUMENT, INCLUDING NAMES & PAYMENT SCHEMES, ARE IN \_DRAFT.**\_ The final content of this document, including the name of the network and its member groups, their remits and terms of reference, will be agreed in partnership with the members.
+_**ALL OF THIS DOCUMENT, INCLUDING NAMES & PAYMENT SCHEMES, ARE IN DRAFT.**_ The final content of this document, including the name of the network and its member groups, their remits and terms of reference, will be agreed in partnership with the members.
 
-Ace Centre is not capitalised. It is not an acronym
+Ace Centre is not written all in capitals, nor is it an acronym
 
 ATUN is an acronym of Assistive Tech User's Network
 {% endhint %}
