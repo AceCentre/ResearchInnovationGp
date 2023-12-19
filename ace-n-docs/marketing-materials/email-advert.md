@@ -20,7 +20,7 @@ Joining is simple. Just click on this link: [Join Our Group](https://forms.offic
 
 **Need Help Joining?**&#x20;
 
-No problem at all! If you need help with the form or have any questions, I'm here for you. Please feel free to book a time to chat with me, and I'll be happy to help. Click here to book a time: [Book My Time](https://booking-link.com/)or just email me back.&#x20;
+No problem at all! If you need help with the form or have any questions, I'm here for you. Please feel free to book a time to chat with me, and I'll be happy to help. Click here to book a time: [Book My Time](https://forms.office.com/r/BNU5iGgwdc) or just email me back.&#x20;
 
 **Let's Make a Difference Together**
 
