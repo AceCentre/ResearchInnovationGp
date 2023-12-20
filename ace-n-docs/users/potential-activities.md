@@ -20,29 +20,29 @@ The world of AAC electronic Assistive Technology is broad. Our work identifies m
 
 #### Social events
 
-One face-to-face meeting a year will be planned, organised by the group Chairs. Ace will provide the venue and a lunch, and there will be at least one Ace Centre representative in attendance. Some users may wish to demonstrate their own setup and technology with videos or live demonstrations. Ace Centre could present and structure any session as well - it will have a structure to allow open discussion and debate about wider aspects. We intend to have this Nationally once a year - virtually and face to face. We would rotate the venue around the country from year to year to allow people to attend more easily.&#x20;
+One face-to-face meeting a year will be planned and organised by the group Chairs. Ace will provide the venue and a lunch, and at least one Ace Centre representative will be in attendance. Some users may wish to demonstrate their setup and technology with videos or live demonstrations. Ace Centre could present and structure any session as well - it will have a structure to allow open discussion and debate about wider aspects. We intend to have this Nationally once a year - virtually and face-to-face. We would rotate the venue yearly to allow people to attend more easily.&#x20;
 
-_We aim to help structure this using the Ace Centre User Group lead to help put an agenda in place but essentially these are your sessions to do with as you wish._&#x20;
+_We aim to structure this using the Ace Centre User Group lead to help put an agenda in place, but essentially, these are your sessions to do with as you wish._&#x20;
 
 #### Research network
 
-Ace Centre want to answer many questions that come up, for example H_ow many people feel they are adequately supported for their language? What kind of speed can people communicate at? How do you feel about your equipment?_ Some of these questions can only be answered by people who use AAC and Assistive Technology but get these answers we need you to give us your consent to ask you.&#x20;
+Ace Centre want to answer many questions that come up, for example H_ow many people feel they are adequately supported for their language? What kind of speed can people communicate at? How do you feel about your equipment?_ Some of these questions can only be answered by people who use AAC and Assistive Technology, but to get these answers, we need you to give us your consent to ask you.&#x20;
 
-Also, often companies and universities have similar questions. We feel that everyone would benefit from being able to ask you such questions, if you would consent to this.&#x20;
+Also, companies and universities often have similar questions. We feel that everyone would benefit from being able to ask you such questions, if you would consent to this.&#x20;
 
 We would like to:
 
-* Create and maintain a Register of people willing to be contacted about research - either to be involved directly or as a member of a steering group on a new study. People registering could be given the option to show their preferences - e.g. _Do you want to be involved in research with Ace Centre, and/or companies, and/or universities; Are you happy for Ace Centre to provide your contact details to companies and/or universities, or would you prefer Ace Centre to write out to you with information about the planned research and provide a link to sign up/share your contact details if you decide to participate?_&#x20;
-* Disseminate information about ongoing research in the form of Update bulletins. How would you prefer to receive these bulletins - via email and/or via announcements at the regional and national social meetings and/or other?&#x20;
+* Create and maintain a Register of people willing to be contacted about research - either to be involved directly or as a steering group member on a new study. Note that it is standard practice that all research goes through ethical approval, which would ask for your explicit consent.&#x20;
+* Disseminate information about ongoing research in the form of Update bulletins. How would you prefer to receive these bulletins - via email and/or via announcements at the regional and national social meetings and/or others?&#x20;
 * Host meetings (either face-to-face and/or remotely) as needed to support the work of ongoing research studies.
 
 #### Equipment evaluation
 
-Many users of AAC say to us "_I'd love to try out X or Y and tell you what I think of it"_. Such evaluation is really useful and with guidance we would love to be able to set this up - and make use of the evaluation in systems such as [SpeechBubble](https://speechbubble.org.uk).&#x20;
+Many users of AT say to us, "_I'd love to try out X or Y and tell you what I think of it"_. Such evaluation is beneficial, and with guidance, we would love to be able to set this up - and make use of the evaluation in systems such as [SpeechBubble](https://speechbubble.org.uk).&#x20;
 
 #### Ace Centre resources review
 
-Ace Centre create a number of resources for families, end users and professionals. We would value input from you to review this content for accessibility, effectiveness and accuracy.&#x20;
+Ace Centre create several resources for families, end users and professionals. We would value input from you to review this content for accessibility, effectiveness and accuracy.&#x20;
 
 #### **Service Co-Production**
 
@@ -50,4 +50,4 @@ Ace Centre - and other services such as NHS Services in Integrated Care Boards (
 
 #### Email/Online discussion forum
 
-Would it be useful to create an online forum to foster discussion and collaboration. If so, what should this look like and how should it be used? Would it be led by the Group chairs and/or Lead?
+Would it be useful to create an online forum to foster discussion and collaboration? If so, what should this look like and how should it be used? Would it be led by the Group chairs and/or Lead?
