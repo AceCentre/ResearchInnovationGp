@@ -46,7 +46,7 @@ Ace Centre create a number of resources for families, end users and professional
 
 #### **Service Co-Production**
 
-Ace Centre - and other services such as NHS CCGs or Hospital sites - may wish to set new services such as a training system or assessment and treatment services. These teams would like to do this with individuals who need to use such services and have a broad range of experience using similar services. This may involve meetings and gaining opinion on such service development.
+Ace Centre - and other services such as NHS Services in Integrated Care Boards (ICBs) - may wish to set up new services such as a training system or assessment and treatment services. These teams would like to do this with individuals who need such services and have a broad range of experience using similar services. This may involve meetings and gaining opinions on such service development.
 
 #### Email/Online discussion forum
 
