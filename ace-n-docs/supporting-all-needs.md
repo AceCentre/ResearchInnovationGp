@@ -1,4 +1,4 @@
-# Supporting all needs
+# 🤝 Supporting all needs
 
 We are committed to creating a diverse and supportive network that caters to the needs and abilities of all individuals. We want to ensure that everyone, regardless of their challenges or circumstances, has a voice and can participate fully in the network.
 
