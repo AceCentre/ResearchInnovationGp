@@ -44,7 +44,7 @@ For other non-employment-based work, we aim to openly detail the process of defi
 
 #### How much will I get paid?
 
-We aim to follow national guidance where possible. As a bare minimum, [National Minimum Wages ](https://www.gov.uk/national-minimum-wage-rates)will be followed. As our involvement with the user group and third parties develops, we will document working examples here.
+We aim to follow national guidance where possible. As a bare minimum, [National Minimum Wages ](https://www.gov.uk/national-minimum-wage-rates)will be followed. I.e  £5-10/hr. As our involvement with the user group and third parties develops, we will document working examples here.
 
 #### **What activities could be paid for activities?**
 
