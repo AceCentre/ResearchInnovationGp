@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎉 Introduction to the Assistive Tech User's Network (ATUN)](README.md)
+* [🎉 Introduction to the Assistive Tech Users' Network (ATUN)](README.md)
 * [🗺 Structure of the Network](structure-of-the-network.md)
 * [📅 Roadmap](roadmap/README.md)
   * [Minutes from November 22](roadmap/minutes-from-november-22.md)

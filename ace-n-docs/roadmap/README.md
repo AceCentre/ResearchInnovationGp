@@ -17,7 +17,7 @@ See below for a Gantt-style chart - or [click here ](https://mermaid.ink/img/pak
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title Assitive Tech User's Network(ATUN) Implementation Plan
+    title Assitive Tech Users' Network(ATUN) Implementation Plan
 
     section Phase 1 Planning and Preparation
 		Stakeholder Identification :a1, 2023-08-10, 20d
