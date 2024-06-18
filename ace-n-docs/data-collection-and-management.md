@@ -1,4 +1,4 @@
-# ℹ Data collection & management
+# ℹ️ Data collection & management
 
 As an ATUN participant, you will be asked to complete an Enrolment Form. The data you provide will be collected, stored and managed following Ace Centre's [Privacy Policy](https://acecentre.org.uk/page/privacy).&#x20;
 
@@ -16,6 +16,7 @@ In short:
 * We will store this information securely and only retain it for as long as is necessary to meet the purposes of ATUN (or to meet statutory requirements where these are more onerous).
 * We will only share your data with third parties if we have your prior, explicit consent (or where we are required to do so by law).
 * Under data protection legislation, you have several rights to your personal information. For more information about these rights, see our [Privacy Policy](https://acecentre.org.uk/page/privacy). To exercise any of these rights, please get in touch with [dpo@acecentre.org.uk](mailto:dpo@acecentre.org.uk)
+* If you wish to drop out of this group please email wwade@acecentre.org.uk and we will remove your data from the group immediately&#x20;
 
 To explain in more detail, we have a couple of examples
 
